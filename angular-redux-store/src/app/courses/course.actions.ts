@@ -9,4 +9,3 @@ export function filterCourses(searchText: string) {
         searchText,
     }
 }
-// TODO: 01 - 02 - Creo la acción

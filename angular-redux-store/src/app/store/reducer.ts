@@ -1,7 +1,7 @@
 import { Course } from '../courses/course';
 import { IAppState } from './IAppState';
 import { FILTER_COURSES } from '../courses/course.actions';
-// TODO: 02 - Creo el reducer
+
 const courses = [
   {
     name: 'Redux',

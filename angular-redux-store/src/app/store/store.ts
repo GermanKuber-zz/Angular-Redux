@@ -3,7 +3,7 @@ import { reducer } from './reducer';
 import { IAppState } from './IAppState';
 
 
-// TODO: 03 - Creo el Store
+
 export const store =  createStore<IAppState>(reducer);
 
 
